@@ -25,3 +25,5 @@ color: white;
 .image {
   height:115px;margin:auto;
 }
+.conteneur {
+  display:flex;padding-left: 300px;
