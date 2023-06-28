@@ -6,25 +6,34 @@
 .background {
   background-color: red;
 }
+
 .titre {
 color: white;
-  font-size: 60px;text-align: center;
+  font-size: 60px;
+  text-align: center;
 }
+
 .organisation {
   display: flex;
 }
+
 .texte {
   font-size: 39px;
   color: white;
   font-family: Arial;
   padding-left: 80px;
 }
+
 .lien {
   font-size: 60px;
 }
+
 .image {
-  height:115px;margin:auto;
+  height:115px;
+  margin:auto;
 }
+
 .conteneur {
-  display:flex;padding-left: 300px;
+  display:flex;
+  padding-left: 300px;
 }
