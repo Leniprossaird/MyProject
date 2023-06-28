@@ -13,5 +13,10 @@ color: white;
 .organisation {
   display: flex;
 }
-
+.texte {
+  font-size: 39px;
+  color: white;
+  font-family: Arial;
+  padding-left: 80px;
+}
 
