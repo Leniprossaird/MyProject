@@ -12,11 +12,12 @@ color: white;
   display: flex;
   flex-direction: column;
   gap: 50px;
+}
+
 @media screen and (max-width: 600px) {
-  body {
+  .organisation {
     background-color: olive;
   }
-}
 }
 
 
