@@ -12,7 +12,11 @@ color: white;
   display: flex;
   flex-direction: column;
   gap: 50px;
+  @media screen and (min-width: 768px) {
+    flex-direction: row;
+  }
 }
+
 
 .texte {
   font-size: 39px;
@@ -39,11 +43,6 @@ color: white;
    margin: auto;
 }
 
-@media screen and (min-width: 768px) {
-  .organisation {
-    flex-direction: row;
-  }
-}
 
 
 
