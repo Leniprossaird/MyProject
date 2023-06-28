@@ -1,6 +1,6 @@
 @media screen and (min-width: 768px) {
-  .conteneur {
-    flex-direction: column;
+  .organisation {
+    flex-direction: row;
   }
 }
 .background {
@@ -15,6 +15,8 @@ color: white;
 
 .organisation {
   display: flex;
+  flex-direction: column;
+  gap: 50px;
 }
 
 .texte {
