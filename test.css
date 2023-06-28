@@ -32,7 +32,7 @@ color: white;
 
 .conteneur {
   display:flex;
-  padding-left: 300px;
+  justify-content:center;
 }
 
 .conteneur_image {
