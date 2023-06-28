@@ -1,5 +1,8 @@
+ @import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+
 .background {
   background-color: red;
+    font-family: 'Bacasime Antique', serif;
 }
 
 .titre {
@@ -23,7 +26,6 @@ color: white;
 .texte {
   font-size: 39px;
   color: white;
-  font-family: garamond;
   padding-left: 80px;
 }
 
