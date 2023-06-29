@@ -36,6 +36,11 @@ color: white;
     @media screen and (min-width: 900px) {
   overflow-wrap: break-word;
         font-size: 60px;
+     align-items: center;
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+     
     }
 }
 
