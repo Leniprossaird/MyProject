@@ -55,6 +55,9 @@ color: white;
  font-size: 85px;
 }
 
+.flex {
+ display: flex;
+}
 
 
 
