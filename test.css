@@ -23,10 +23,13 @@ color: white;
 }
 
 
+
 .texte {
-  font-size: 50px;
   color: white;
   padding-left: 80px;
+@media screen and (min-width: 900px) {
+ font-size: 50px;
+}
 }
 
 .lien {
