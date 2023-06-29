@@ -34,6 +34,7 @@ color: white;
 
 .lien {
     @media screen and (min-width: 900px) {
+  overflow-wrap: break-word;
         font-size: 60px;
     }
 }
